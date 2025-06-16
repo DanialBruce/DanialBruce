@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DanialBruce
 - 👀 I’m interested in AI, Machine Learning, Programming, Embedded Systems, electronics or anything related to ICT and Computer Science.
-- 🌱 I’m currently studying Information and Communication technologies at Häme University of Applied Sciences.
 - 💞️ I’m looking to collaborate on Anything related to ICT and Computer Sciences field.
 - 📫 Reach me at danial.mousavi@student.hamk.fi
 
